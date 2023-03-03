@@ -22,7 +22,7 @@
   <a href="#license">License</a>
 </h2>
 
-<h2 id="quickstart"><img alt="Bima" style="margin-right: 8px;" src="https://raw.githubusercontent.com/pandawa-tech/bima/main/static/logo.svg" width="25" /> Quickstart</h2>
+<h2 id="quickstart"><img alt="Bima" style="margin-right: 8px;" src="https://raw.githubusercontent.com/pandawa-tech/bima/main/static/logo.svg" width="25" /> Quickstart Project</h2>
 
 Install node module
 ```shell
